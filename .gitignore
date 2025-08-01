@@ -15,6 +15,7 @@ bin/
 gen/
 out/
 release/
+apidocs/
 
 # Gradle files
 .gradle/
